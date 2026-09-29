@@ -1,0 +1,10 @@
+import { createRequire } from 'node:module';
+const { chromium } = createRequire(import.meta.url)(process.env.PW_MODULE);
+const b = await chromium.launch(); const p = await b.newPage({ viewport: { width: 420, height: 860 } });
+await p.goto('http://localhost:4000'); await p.click('text=New here?');
+await p.fill('input[type=email]', `s${Date.now()}@x.com`); await p.fill('input[type=password]', 'password123');
+await p.click('button[type=submit]'); await p.waitForURL('**/onboarding');
+await p.click('text=Interview / DSA prep'); await p.screenshot({ path: '/tmp/onb.png' });
+await p.click('text=Generate today'); await p.waitForSelector('text=Start mission'); await p.screenshot({ path: '/tmp/today.png' });
+await p.click('text=Start mission >> nth=0'); await p.waitForSelector('text=step 1'); await p.screenshot({ path: '/tmp/exec.png' });
+await b.close();

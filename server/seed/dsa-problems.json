@@ -1,0 +1,56 @@
+[
+  { "domain": "dsa", "type": "problem", "topic": "arrays", "difficulty": "easy", "estMinutes": 15, "payload": { "title": "Two Sum", "url": "https://leetcode.com/problems/two-sum/", "tags": ["array", "hashmap"] } },
+  { "domain": "dsa", "type": "problem", "topic": "arrays", "difficulty": "easy", "estMinutes": 12, "payload": { "title": "Best Time to Buy and Sell Stock", "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/", "tags": ["array", "greedy"] } },
+  { "domain": "dsa", "type": "problem", "topic": "arrays", "difficulty": "medium", "estMinutes": 20, "payload": { "title": "Product of Array Except Self", "url": "https://leetcode.com/problems/product-of-array-except-self/", "tags": ["array", "prefix-sum"] } },
+  { "domain": "dsa", "type": "problem", "topic": "arrays", "difficulty": "medium", "estMinutes": 22, "payload": { "title": "3Sum", "url": "https://leetcode.com/problems/3sum/", "tags": ["array", "two-pointers"] } },
+  { "domain": "dsa", "type": "problem", "topic": "arrays", "difficulty": "hard", "estMinutes": 30, "payload": { "title": "Trapping Rain Water", "url": "https://leetcode.com/problems/trapping-rain-water/", "tags": ["array", "two-pointers"] } },
+
+  { "domain": "dsa", "type": "problem", "topic": "two-pointers", "difficulty": "easy", "estMinutes": 12, "payload": { "title": "Valid Palindrome", "url": "https://leetcode.com/problems/valid-palindrome/", "tags": ["string", "two-pointers"] } },
+  { "domain": "dsa", "type": "problem", "topic": "two-pointers", "difficulty": "medium", "estMinutes": 18, "payload": { "title": "Container With Most Water", "url": "https://leetcode.com/problems/container-with-most-water/", "tags": ["array", "two-pointers"] } },
+  { "domain": "dsa", "type": "problem", "topic": "two-pointers", "difficulty": "hard", "estMinutes": 28, "payload": { "title": "Trapping Rain Water II", "url": "https://leetcode.com/problems/trapping-rain-water-ii/", "tags": ["matrix", "heap"] } },
+
+  { "domain": "dsa", "type": "problem", "topic": "binary-search", "difficulty": "easy", "estMinutes": 12, "payload": { "title": "Binary Search", "url": "https://leetcode.com/problems/binary-search/", "tags": ["binary-search"] } },
+  { "domain": "dsa", "type": "problem", "topic": "binary-search", "difficulty": "easy", "estMinutes": 14, "payload": { "title": "First Bad Version", "url": "https://leetcode.com/problems/first-bad-version/", "tags": ["binary-search"] } },
+  { "domain": "dsa", "type": "problem", "topic": "binary-search", "difficulty": "medium", "estMinutes": 20, "payload": { "title": "Search in Rotated Sorted Array", "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/", "tags": ["binary-search"] } },
+  { "domain": "dsa", "type": "problem", "topic": "binary-search", "difficulty": "medium", "estMinutes": 22, "payload": { "title": "Find Minimum in Rotated Sorted Array", "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/", "tags": ["binary-search"] } },
+  { "domain": "dsa", "type": "problem", "topic": "binary-search", "difficulty": "hard", "estMinutes": 30, "payload": { "title": "Median of Two Sorted Arrays", "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/", "tags": ["binary-search", "array"] } },
+
+  { "domain": "dsa", "type": "problem", "topic": "sliding-window", "difficulty": "easy", "estMinutes": 14, "payload": { "title": "Best Time to Buy and Sell Stock II", "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/", "tags": ["array", "greedy"] } },
+  { "domain": "dsa", "type": "problem", "topic": "sliding-window", "difficulty": "medium", "estMinutes": 20, "payload": { "title": "Longest Substring Without Repeating Characters", "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/", "tags": ["string", "sliding-window"] } },
+  { "domain": "dsa", "type": "problem", "topic": "sliding-window", "difficulty": "hard", "estMinutes": 30, "payload": { "title": "Minimum Window Substring", "url": "https://leetcode.com/problems/minimum-window-substring/", "tags": ["string", "sliding-window"] } },
+
+  { "domain": "dsa", "type": "problem", "topic": "hashing", "difficulty": "easy", "estMinutes": 10, "payload": { "title": "Contains Duplicate", "url": "https://leetcode.com/problems/contains-duplicate/", "tags": ["array", "hashmap"] } },
+  { "domain": "dsa", "type": "problem", "topic": "hashing", "difficulty": "easy", "estMinutes": 12, "payload": { "title": "Valid Anagram", "url": "https://leetcode.com/problems/valid-anagram/", "tags": ["string", "hashmap"] } },
+  { "domain": "dsa", "type": "problem", "topic": "hashing", "difficulty": "medium", "estMinutes": 18, "payload": { "title": "Group Anagrams", "url": "https://leetcode.com/problems/group-anagrams/", "tags": ["string", "hashmap"] } },
+  { "domain": "dsa", "type": "problem", "topic": "hashing", "difficulty": "medium", "estMinutes": 20, "payload": { "title": "Longest Consecutive Sequence", "url": "https://leetcode.com/problems/longest-consecutive-sequence/", "tags": ["array", "hashmap"] } },
+
+  { "domain": "dsa", "type": "problem", "topic": "linked-list", "difficulty": "easy", "estMinutes": 12, "payload": { "title": "Reverse Linked List", "url": "https://leetcode.com/problems/reverse-linked-list/", "tags": ["linked-list"] } },
+  { "domain": "dsa", "type": "problem", "topic": "linked-list", "difficulty": "easy", "estMinutes": 14, "payload": { "title": "Merge Two Sorted Lists", "url": "https://leetcode.com/problems/merge-two-sorted-lists/", "tags": ["linked-list"] } },
+  { "domain": "dsa", "type": "problem", "topic": "linked-list", "difficulty": "medium", "estMinutes": 20, "payload": { "title": "Linked List Cycle II", "url": "https://leetcode.com/problems/linked-list-cycle-ii/", "tags": ["linked-list", "two-pointers"] } },
+  { "domain": "dsa", "type": "problem", "topic": "linked-list", "difficulty": "medium", "estMinutes": 22, "payload": { "title": "Reorder List", "url": "https://leetcode.com/problems/reorder-list/", "tags": ["linked-list"] } },
+  { "domain": "dsa", "type": "problem", "topic": "linked-list", "difficulty": "hard", "estMinutes": 28, "payload": { "title": "Merge k Sorted Lists", "url": "https://leetcode.com/problems/merge-k-sorted-lists/", "tags": ["linked-list", "heap"] } },
+
+  { "domain": "dsa", "type": "problem", "topic": "stacks", "difficulty": "easy", "estMinutes": 12, "payload": { "title": "Valid Parentheses", "url": "https://leetcode.com/problems/valid-parentheses/", "tags": ["stack", "string"] } },
+  { "domain": "dsa", "type": "problem", "topic": "stacks", "difficulty": "medium", "estMinutes": 18, "payload": { "title": "Daily Temperatures", "url": "https://leetcode.com/problems/daily-temperatures/", "tags": ["stack", "monotonic-stack"] } },
+  { "domain": "dsa", "type": "problem", "topic": "stacks", "difficulty": "hard", "estMinutes": 30, "payload": { "title": "Largest Rectangle in Histogram", "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/", "tags": ["stack", "monotonic-stack"] } },
+
+  { "domain": "dsa", "type": "problem", "topic": "trees", "difficulty": "easy", "estMinutes": 12, "payload": { "title": "Maximum Depth of Binary Tree", "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/", "tags": ["tree", "dfs"] } },
+  { "domain": "dsa", "type": "problem", "topic": "trees", "difficulty": "easy", "estMinutes": 14, "payload": { "title": "Invert Binary Tree", "url": "https://leetcode.com/problems/invert-binary-tree/", "tags": ["tree", "dfs"] } },
+  { "domain": "dsa", "type": "problem", "topic": "trees", "difficulty": "medium", "estMinutes": 20, "payload": { "title": "Binary Tree Level Order Traversal", "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/", "tags": ["tree", "bfs"] } },
+  { "domain": "dsa", "type": "problem", "topic": "trees", "difficulty": "medium", "estMinutes": 22, "payload": { "title": "Validate Binary Search Tree", "url": "https://leetcode.com/problems/validate-binary-search-tree/", "tags": ["tree", "bst"] } },
+  { "domain": "dsa", "type": "problem", "topic": "trees", "difficulty": "hard", "estMinutes": 30, "payload": { "title": "Binary Tree Maximum Path Sum", "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/", "tags": ["tree", "dfs"] } },
+
+  { "domain": "dsa", "type": "problem", "topic": "graphs", "difficulty": "easy", "estMinutes": 15, "payload": { "title": "Number of Islands", "url": "https://leetcode.com/problems/number-of-islands/", "tags": ["graph", "bfs", "dfs"] } },
+  { "domain": "dsa", "type": "problem", "topic": "graphs", "difficulty": "medium", "estMinutes": 20, "payload": { "title": "Course Schedule", "url": "https://leetcode.com/problems/course-schedule/", "tags": ["graph", "topological-sort"] } },
+  { "domain": "dsa", "type": "problem", "topic": "graphs", "difficulty": "medium", "estMinutes": 22, "payload": { "title": "Clone Graph", "url": "https://leetcode.com/problems/clone-graph/", "tags": ["graph", "dfs"] } },
+  { "domain": "dsa", "type": "problem", "topic": "graphs", "difficulty": "hard", "estMinutes": 32, "payload": { "title": "Word Ladder", "url": "https://leetcode.com/problems/word-ladder/", "tags": ["graph", "bfs"] } },
+
+  { "domain": "dsa", "type": "problem", "topic": "dynamic-programming", "difficulty": "easy", "estMinutes": 14, "payload": { "title": "Climbing Stairs", "url": "https://leetcode.com/problems/climbing-stairs/", "tags": ["dp"] } },
+  { "domain": "dsa", "type": "problem", "topic": "dynamic-programming", "difficulty": "medium", "estMinutes": 22, "payload": { "title": "Coin Change", "url": "https://leetcode.com/problems/coin-change/", "tags": ["dp"] } },
+  { "domain": "dsa", "type": "problem", "topic": "dynamic-programming", "difficulty": "medium", "estMinutes": 24, "payload": { "title": "Longest Increasing Subsequence", "url": "https://leetcode.com/problems/longest-increasing-subsequence/", "tags": ["dp", "binary-search"] } },
+  { "domain": "dsa", "type": "problem", "topic": "dynamic-programming", "difficulty": "hard", "estMinutes": 32, "payload": { "title": "Edit Distance", "url": "https://leetcode.com/problems/edit-distance/", "tags": ["dp", "string"] } },
+
+  { "domain": "dsa", "type": "problem", "topic": "backtracking", "difficulty": "medium", "estMinutes": 20, "payload": { "title": "Subsets", "url": "https://leetcode.com/problems/subsets/", "tags": ["backtracking"] } },
+  { "domain": "dsa", "type": "problem", "topic": "backtracking", "difficulty": "medium", "estMinutes": 22, "payload": { "title": "Combination Sum", "url": "https://leetcode.com/problems/combination-sum/", "tags": ["backtracking"] } },
+  { "domain": "dsa", "type": "problem", "topic": "backtracking", "difficulty": "hard", "estMinutes": 30, "payload": { "title": "N-Queens", "url": "https://leetcode.com/problems/n-queens/", "tags": ["backtracking"] } }
+]

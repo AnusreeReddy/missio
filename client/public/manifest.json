@@ -1,0 +1,10 @@
+{
+  "name": "Missio",
+  "short_name": "Missio",
+  "description": "Decide the next actionable mission and execute it.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14161A",
+  "theme_color": "#14161A",
+  "icons": []
+}
